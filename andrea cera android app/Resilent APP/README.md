@@ -90,3 +90,19 @@ These files can be used to explore and test the sound processing behavior of the
 🧠 If you're working with **MaxMSP**, open `ReSilent.maxpat` to view and run the patch.
 
 ---
+
+## ReSilent Algorithm & Sound Files
+
+🎛 **ReSilent’s algorithm** is available in the [`ReSilent-algo`](./ReSilent-algo) folder:
+
+- [`ReSilent.maxpat`](./ReSilent-algo/ReSilent.maxpat) – MaxMSP/RNBO patch
+
+🎵 **Example sound files** in the same folder:
+
+- `s_01.wav`, `s_01a.wav`  
+- `s_02.wav`, `s_02a.wav`  
+- `s_03.wav`, `s_03a.wav`
+
+You can open `ReSilent.maxpat` in **MaxMSP** to explore and test how the patch processes these sounds.
+
+---
