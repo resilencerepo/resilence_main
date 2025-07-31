@@ -74,7 +74,7 @@ Notice how the app responds to different soundscapes.
 ## ReSilent Algorithm & Sound Files
 
 🎛 **ReSilent's algorithm** is downloadable here:  
-[📥 Download MaxMSP/RNBO file – `ReSilent.maxpat`](./ReSilent.maxpat)
+[📥 Download MaxMSP/RNBO file – `ReSilent.maxpat`](./ReSilent-algo/ReSilent.maxpat)
 
 🎵 **Example sound files** included in the repository:
 
