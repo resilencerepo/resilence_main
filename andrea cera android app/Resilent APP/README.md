@@ -9,7 +9,7 @@ The **ReSilent** app captures the outside soundscape through your smartphone’s
 
 ## 1. Download the App
 
-[👉 Download ReSilent APK](https://www.dropbox.com/scl/fi/yu7m5za9hf8audif1zcxk/resilent.apk?rlkey=yaf1d78f1b0mp6sop111vi2b4&st=isb5pjgi&dl=0)
+[👉 Download ReSilent APK](https://github.com/resilencerepo/resilence_main/blob/main/andrea%20cera%20android%20app/Resilent%20APP/resilent.apk)
 
 ---
 
@@ -68,3 +68,25 @@ Notice how the app responds to different soundscapes.
 
 **© Andrea Cera, 2024**  
 [ReSilent APK Download (alternate link)](https://www.dropbox.com/scl/fi/yu7m5za9hf8audif1zcxk/resilent.apk?rlkey=yaf1d78f1b0mp6sop111vi2b4&st=isb5pjgi&dl=0)
+
+---
+
+## ReSilent Algorithm & Sound Files
+
+🎛 **ReSilent's algorithm** is downloadable here:  
+[📥 Download MaxMSP/RNBO file – `ReSilent.maxpat`](./ReSilent.maxpat)
+
+🎵 **Example sound files** included in the repository:
+
+- `s_01.wav`  
+- `s_01a.wav`  
+- `s_02.wav`  
+- `s_02a.wav`  
+- `s_03.wav`  
+- `s_03a.wav`
+
+These files can be used to explore and test the sound processing behavior of the ReSilent system using Max/MSP or RNBO.
+
+🧠 If you're working with **MaxMSP**, open `ReSilent.maxpat` to view and run the patch.
+
+---
