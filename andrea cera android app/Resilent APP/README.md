@@ -71,27 +71,8 @@ Notice how the app responds to different soundscapes.
 
 ---
 
-## ReSilent Algorithm & Sound Files
 
-🎛 **ReSilent's algorithm** is downloadable here:  
-[📥 Download MaxMSP/RNBO file – `ReSilent.maxpat`](./ReSilent-algo/ReSilent.maxpat)
-
-🎵 **Example sound files** included in the repository:
-
-- `s_01.wav`  
-- `s_01a.wav`  
-- `s_02.wav`  
-- `s_02a.wav`  
-- `s_03.wav`  
-- `s_03a.wav`
-
-These files can be used to explore and test the sound processing behavior of the ReSilent system using Max/MSP or RNBO.
-
-🧠 If you're working with **MaxMSP**, open `ReSilent.maxpat` to view and run the patch.
-
----
-
-## ReSilent Algorithm & Sound Files
+# ReSilent Algorithm & Sound Files
 
 🎛 **ReSilent’s algorithm** is available in the [`ReSilent-algo`](./ReSilent-algo) folder:
 
@@ -103,6 +84,6 @@ These files can be used to explore and test the sound processing behavior of the
 - `s_02.wav`, `s_02a.wav`  
 - `s_03.wav`, `s_03a.wav`
 
-You can open `ReSilent.maxpat` in **MaxMSP** to explore and test how the patch processes these sounds.
+🧠 You can open `ReSilent.maxpat` in **MaxMSP** to explore and test how the patch processes these sounds.
 
 ---
