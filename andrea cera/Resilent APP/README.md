@@ -9,7 +9,7 @@ The **ReSilent** app captures the outside soundscape through your smartphone’s
 
 ## 1. Download the App
 
-[👉 Download ReSilent APK](https://github.com/resilencerepo/resilence_main/blob/main/andrea%20cera%20android%20app/Resilent%20APP/resilent.apk)
+[👉 Download ReSilent APK](./resilent.apk)
 
 ---
 
