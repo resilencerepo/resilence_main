@@ -66,6 +66,16 @@ Notice how the app responds to different soundscapes.
 
 ---
 
+## 🎥 Demo Video
+
+Experience **ReSilent in action** — see how it transforms the ambient soundscape using your Android device.
+
+[![Watch the demo on YouTube](https://img.youtube.com/vi/em0FYeU2Yew/hqdefault.jpg)](https://www.youtube.com/watch?v=em0FYeU2Yew)
+
+[Watch on YouTube](https://www.youtube.com/watch?v=em0FYeU2Yew)
+
+---
+
 **© Andrea Cera, 2024**  
 [ReSilent APK Download (alternate link)](https://www.dropbox.com/scl/fi/yu7m5za9hf8audif1zcxk/resilent.apk?rlkey=yaf1d78f1b0mp6sop111vi2b4&st=isb5pjgi&dl=0)
 
