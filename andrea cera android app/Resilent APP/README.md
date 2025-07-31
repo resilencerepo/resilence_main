@@ -68,7 +68,7 @@ Notice how the app responds to different soundscapes.
 
 ## 🎥 Demo Video
 
-Experience **ReSilent in action** — see how it transforms the ambient soundscape using your Android device.
+Experience **ReSilent in action** — see how it transforms the ambient soundscape using your Android device. (Click image to see the video)
 
 [![ReSilent Demo](https://img.youtube.com/vi/em0FYeU2Yew/hqdefault.jpg)](https://www.youtube.com/watch?v=em0FYeU2Yew)
 
