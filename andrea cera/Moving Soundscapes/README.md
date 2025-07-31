@@ -50,6 +50,7 @@ The patch and demo explore how an incoming stream of data (e.g. motion capture, 
 
 - `change_analysis_2028.03.10.maxpat` — Main MaxMSP patch
 - `change_analysis_demo_2025.03.10.mp4` — Demo video of the patch behavior
+- `doc_Moving-Soundscapes_change_analysis_2025.05.17.pdf` — Detailed instructions for setting up and using the Max/MSP patch
 
 ---
 
