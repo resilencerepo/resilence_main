@@ -1,0 +1,16 @@
+numpy
+opencv-python
+Pillow
+tk
+torch>=1.9.0
+ultralytics
+deepface
+transformers
+jinja2
+requests
+edge-tts
+python-dotenv
+tf-keras
+playsound==1.2.2
+pygame
+pyserial
