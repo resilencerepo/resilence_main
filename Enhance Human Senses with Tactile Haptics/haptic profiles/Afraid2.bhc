@@ -1,0 +1,3477 @@
+{
+  "id": "b73cb87a-0d4a-68f2-cdc1-959950b8be39",
+  "athIndex": 1073758179,
+  "name": "Afraid2",
+  "isDefault": false,
+  "isDownloaded": false,
+  "version": 2,
+  "category": "Game",
+  "description": "",
+  "tags": null,
+  "selectedDevices": [
+    "Vest"
+  ],
+  "useMirroring": [
+    true,
+    true
+  ],
+  "activeArea": [
+    [
+      0,
+      1,
+      4,
+      5,
+      8
+    ],
+    [
+      2,
+      3,
+      6,
+      7,
+      9
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      0,
+      4
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      5
+    ],
+    [
+      6
+    ],
+    [],
+    []
+  ],
+  "isManualMapping": [
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true,
+    true
+  ],
+  "globalVsm": 1,
+  "historySeconds": 0.4,
+  "isVoiceMute": false,
+  "voiceMuteLevel": 1,
+  "voiceMuteThreshold": -10,
+  "channels": [
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            128,
+            0,
+            8,
+            64,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            68,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            4,
+            0,
+            4,
+            128,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            192,
+            0,
+            12,
+            64,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": false,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            16,
+            0,
+            1,
+            32,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            34,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            2,
+            0,
+            2,
+            16,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            48,
+            0,
+            3,
+            32,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "rmsThreshold": -50,
+      "useAdaptiveThreshold": true,
+      "adaptiveHigh": 95,
+      "adaptiveLow": 50,
+      "subFilters": [
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        },
+        {
+          "enable": true,
+          "dbHigh": 0,
+          "dbLow": -60,
+          "vsm": 20
+        }
+      ],
+      "subFilterMotorMappings": [
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "mappingVest": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "mappingOthers": [
+            0,
+            0,
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ]
+}
