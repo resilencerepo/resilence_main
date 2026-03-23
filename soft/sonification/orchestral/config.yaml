@@ -1,0 +1,17 @@
+# config.yaml
+
+dataset_root: "./dataset_root"   # relative to main.py (or use ORCHESTRA_DATASET env var)
+
+layers:
+  orchestra:
+    enabled: true        # this controls the whole harmony engine ON/OFF
+    mode: "harmony"      # "mix" | "harmony" | "tune2harmony"
+    root_note: "C4"      # e.g. "C4", "A3", "D#3"
+    chord_type: "major"  # "major" or "minor"
+    max_volume: 0.8      # master gain for this layer
+
+  breathing:
+    enabled: false
+
+  ambient:
+    enabled: false
